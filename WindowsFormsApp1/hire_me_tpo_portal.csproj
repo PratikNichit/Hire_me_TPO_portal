@@ -105,9 +105,6 @@
     <None Include="images\Background\Interview-amico.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="images\Background\24421.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="images\Background\6202694_24421.jpg" />
   </ItemGroup>
   <ItemGroup>
@@ -124,6 +121,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="images\Background\padlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\Background\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\Background\minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\Background\studentProfile.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
