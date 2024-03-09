@@ -22,12 +22,13 @@ namespace WindowsFormsApp1
 
         }
 
-        private void CloseButton(object sender, EventArgs e)
+
+        private void CloseBox_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
-        private void pictureBox2_Click(object sender, EventArgs e)
+        private void MinimizeBox_Click(object sender, EventArgs e)
         {
             this.WindowState = FormWindowState.Minimized;
         }
